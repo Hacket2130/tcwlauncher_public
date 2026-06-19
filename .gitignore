@@ -1,0 +1,17 @@
+# Keep this repo focused on public release artifacts.
+.env
+*.key
+*.pem
+*ed25519*
+known_hosts
+authorized_keys
+*.db
+*.sqlite
+*.sqlite3
+backups/
+.release/
+source/
+backend/
+docs/
+tools/
+certs/
