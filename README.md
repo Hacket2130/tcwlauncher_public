@@ -9,18 +9,25 @@ https://tcwa3.co.uk/downloads/TCW-Launcher-Windows.zip
 
 ## Current Files
 
-- `downloads/TCW-Launcher-Windows.zip`: public Windows launcher package.
+- `downloads/TCW-Launcher-Windows-0.2.0-beta.zip`: current public Windows launcher package.
 - `release.json`: launcher update manifest used by the TCWA3 backend.
 - `SHA256SUMS.txt`: checksum for verifying the release zip.
 
 ## Install
 
-1. Download `downloads/TCW-Launcher-Windows.zip`.
+1. Download `downloads/TCW-Launcher-Windows-0.2.0-beta.zip`.
 2. Extract the zip.
 3. Run `Install_TCWA3_Launcher.cmd`.
 4. Use the desktop shortcut named `TCWA3 Launcher`.
 
 Future launcher updates are downloaded, verified, installed, and restarted by the launcher.
+
+## Windows Blocking Fallback
+
+Some Windows installs may block new unsigned community apps while they build reputation.
+If Smart App Control or SmartScreen blocks this release, direct players to the public
+install page, Steam Workshop collection, Galaxy Map, and Discord support while the
+free public release path gains reputation.
 
 ## Legal Notice
 

@@ -1,23 +1,24 @@
 {
-  "version": "0.1.5-beta",
+  "version": "0.2.0-beta",
   "channel": "beta",
-  "title": "TCW Launcher Windows Beta",
-  "summary": "TCWA3 Launcher hotfix for Galaxy Map embedding and menu polish.",
+  "title": "TCW Launcher 0.2.0 Beta",
+  "summary": "Working UI and backend milestone with corrected Galaxy Map sizing, Steam-linked profiles, server status, self-updates, and public install fallback links.",
   "mandatory": false,
-  "download_url": "https://tcwa3.co.uk/downloads/TCW-Launcher-Windows-0.1.5-beta.zip",
-  "installer_url": "https://tcwa3.co.uk/downloads/TCW-Launcher-Windows-0.1.5-beta.zip",
-  "sha256": "C06AB726852D923F1AA5130170E0DAEA3A86BF9D0F82D9891BDE789CC164D2D9",
+  "download_url": "https://tcwa3.co.uk/downloads/TCW-Launcher-Windows-0.2.0-beta.zip",
+  "installer_url": "https://tcwa3.co.uk/downloads/TCW-Launcher-Windows-0.2.0-beta.zip",
+  "sha256": "826FF18424A107DA284AA491092ED4612B3E968CE18EFAD60484015846072115",
   "published_at": "2026-06-19",
   "notes": [
-    "Restores the embedded Galaxy Map runtime by shipping the WebView DLL.",
-    "Adds clearer hover feedback to Servers, Action, and Roleplay image buttons.",
-    "Changes default connected Steam profile name to Clone Trooper."
+    "Working launcher UI and backend milestone.",
+    "Corrected Galaxy Map embedding in windowed and fullscreen modes.",
+    "Keeps Steam-linked profiles and Arma name fallback online.",
+    "Adds public web fallback links for players blocked by Windows app reputation."
   ],
   "downloads": {
     "windows": {
-      "url": "https://tcwa3.co.uk/downloads/TCW-Launcher-Windows-0.1.5-beta.zip",
-      "installer_url": "https://tcwa3.co.uk/downloads/TCW-Launcher-Windows-0.1.5-beta.zip",
-      "sha256": "C06AB726852D923F1AA5130170E0DAEA3A86BF9D0F82D9891BDE789CC164D2D9"
+      "url": "https://tcwa3.co.uk/downloads/TCW-Launcher-Windows-0.2.0-beta.zip",
+      "installer_url": "https://tcwa3.co.uk/downloads/TCW-Launcher-Windows-0.2.0-beta.zip",
+      "sha256": "826FF18424A107DA284AA491092ED4612B3E968CE18EFAD60484015846072115"
     },
     "linux": {
       "url": "",
