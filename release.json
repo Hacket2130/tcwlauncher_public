@@ -1,23 +1,23 @@
 {
-  "version": "0.1.3-beta",
+  "version": "0.1.4-beta",
   "channel": "beta",
   "title": "TCW Launcher Windows Beta",
-  "summary": "Encrypted TCWA3 Launcher release with automatic Windows self-updates.",
+  "summary": "TCWA3 Launcher hotfix restoring the full GUI while keeping public exports lean.",
   "mandatory": false,
-  "download_url": "https://tcwa3.co.uk/downloads/TCW-Launcher-Windows-0.1.3-beta.zip",
-  "installer_url": "https://tcwa3.co.uk/downloads/TCW-Launcher-Windows-0.1.3-beta.zip",
-  "sha256": "71B39CCFA05EBFB6208111679FB173A15E9C236D8B03C7AF793BBF553839DBCB",
+  "download_url": "https://tcwa3.co.uk/downloads/TCW-Launcher-Windows-0.1.4-beta.zip",
+  "installer_url": "https://tcwa3.co.uk/downloads/TCW-Launcher-Windows-0.1.4-beta.zip",
+  "sha256": "E04343FBAA921DD18F13CC676BAEA54AE5D34F5F8CE867B85C5365126012449D",
   "published_at": "2026-06-19",
   "notes": [
-    "Adds automatic downloaded zip update installation and restart on Windows.",
-    "Adds one-click first install helper with desktop shortcut.",
-    "Excludes backend and admin project files from the public launcher export."
+    "Fixes blank launcher window caused by stock Godot template pack encryption.",
+    "Keeps compiled script export and excludes backend/admin files from the player package.",
+    "Keeps one-click install helper and automatic update flow."
   ],
   "downloads": {
     "windows": {
-      "url": "https://tcwa3.co.uk/downloads/TCW-Launcher-Windows-0.1.3-beta.zip",
-      "installer_url": "https://tcwa3.co.uk/downloads/TCW-Launcher-Windows-0.1.3-beta.zip",
-      "sha256": "71B39CCFA05EBFB6208111679FB173A15E9C236D8B03C7AF793BBF553839DBCB"
+      "url": "https://tcwa3.co.uk/downloads/TCW-Launcher-Windows-0.1.4-beta.zip",
+      "installer_url": "https://tcwa3.co.uk/downloads/TCW-Launcher-Windows-0.1.4-beta.zip",
+      "sha256": "E04343FBAA921DD18F13CC676BAEA54AE5D34F5F8CE867B85C5365126012449D"
     },
     "linux": {
       "url": "",
