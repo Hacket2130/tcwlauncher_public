@@ -1,23 +1,23 @@
 {
-  "version": "0.1.4-beta",
+  "version": "0.1.5-beta",
   "channel": "beta",
   "title": "TCW Launcher Windows Beta",
-  "summary": "TCWA3 Launcher hotfix restoring the full GUI while keeping public exports lean.",
+  "summary": "TCWA3 Launcher hotfix for Galaxy Map embedding and menu polish.",
   "mandatory": false,
-  "download_url": "https://tcwa3.co.uk/downloads/TCW-Launcher-Windows-0.1.4-beta.zip",
-  "installer_url": "https://tcwa3.co.uk/downloads/TCW-Launcher-Windows-0.1.4-beta.zip",
-  "sha256": "E04343FBAA921DD18F13CC676BAEA54AE5D34F5F8CE867B85C5365126012449D",
+  "download_url": "https://tcwa3.co.uk/downloads/TCW-Launcher-Windows-0.1.5-beta.zip",
+  "installer_url": "https://tcwa3.co.uk/downloads/TCW-Launcher-Windows-0.1.5-beta.zip",
+  "sha256": "C06AB726852D923F1AA5130170E0DAEA3A86BF9D0F82D9891BDE789CC164D2D9",
   "published_at": "2026-06-19",
   "notes": [
-    "Fixes blank launcher window caused by stock Godot template pack encryption.",
-    "Keeps compiled script export and excludes backend/admin files from the player package.",
-    "Keeps one-click install helper and automatic update flow."
+    "Restores the embedded Galaxy Map runtime by shipping the WebView DLL.",
+    "Adds clearer hover feedback to Servers, Action, and Roleplay image buttons.",
+    "Changes default connected Steam profile name to Clone Trooper."
   ],
   "downloads": {
     "windows": {
-      "url": "https://tcwa3.co.uk/downloads/TCW-Launcher-Windows-0.1.4-beta.zip",
-      "installer_url": "https://tcwa3.co.uk/downloads/TCW-Launcher-Windows-0.1.4-beta.zip",
-      "sha256": "E04343FBAA921DD18F13CC676BAEA54AE5D34F5F8CE867B85C5365126012449D"
+      "url": "https://tcwa3.co.uk/downloads/TCW-Launcher-Windows-0.1.5-beta.zip",
+      "installer_url": "https://tcwa3.co.uk/downloads/TCW-Launcher-Windows-0.1.5-beta.zip",
+      "sha256": "C06AB726852D923F1AA5130170E0DAEA3A86BF9D0F82D9891BDE789CC164D2D9"
     },
     "linux": {
       "url": "",
