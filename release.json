@@ -1,24 +1,23 @@
 {
-  "version": "0.3.1-beta",
+  "version": "0.3.2-beta",
   "channel": "beta",
-  "title": "TCW Launcher 0.3.1 Beta",
-  "summary": "Windows updater handoff hotfix for clean install, relaunch, and version persistence.",
+  "title": "TCW Launcher 0.3.2 Beta",
+  "summary": "Profile panel visibility hotfix for the public launcher.",
   "mandatory": true,
-  "download_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.1-beta.exe",
-  "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.1-beta.exe",
-  "sha256": "F7CA29B9A9296EBC4C9541FB5457D44AB8EBFE342D804199F3A23A22E822902C",
+  "download_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.2-beta.exe",
+  "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.2-beta.exe",
+  "sha256": "5E3AA894ACFDD8D5FE0144B52943AF44EEBB66CF10E890B4B59AF7F91502D09D",
   "published_at": "2026-06-20",
   "notes": [
-    "Closes the old launcher before installing the update.",
-    "Refreshes the previously launched folder so old shortcuts do not reopen 0.2.0-beta.",
-    "Creates Desktop and Start Menu shortcuts to the installed launcher.",
-    "Keeps the 0.3.0 community systems, server status, profiles, audio/theme backend, and Galaxy Map fixes."
+    "Restores the compact trooper profile panel visibility in the main launcher screen.",
+    "Keeps the 0.3.1 updater handoff fix so old launchers close cleanly during installation.",
+    "Keeps server status, Steam-linked profiles, community updates, audio controls, and Galaxy Map support online."
   ],
   "downloads": {
     "windows": {
-      "url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.1-beta.exe",
-      "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.1-beta.exe",
-      "sha256": "F7CA29B9A9296EBC4C9541FB5457D44AB8EBFE342D804199F3A23A22E822902C"
+      "url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.2-beta.exe",
+      "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.2-beta.exe",
+      "sha256": "5E3AA894ACFDD8D5FE0144B52943AF44EEBB66CF10E890B4B59AF7F91502D09D"
     },
     "linux": {
       "url": "",
