@@ -1,23 +1,23 @@
 {
-  "version": "0.3.2-beta",
+  "version": "0.3.3-beta",
   "channel": "beta",
-  "title": "TCW Launcher 0.3.2 Beta",
-  "summary": "Profile panel visibility hotfix for the public launcher.",
-  "mandatory": true,
-  "download_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.2-beta.exe",
-  "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.2-beta.exe",
-  "sha256": "5E3AA894ACFDD8D5FE0144B52943AF44EEBB66CF10E890B4B59AF7F91502D09D",
+  "title": "TCW Launcher Windows Beta",
+  "summary": "Launcher profile panel hotfix and public website refresh.",
+  "mandatory": false,
+  "download_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.3-beta.exe",
+  "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.3-beta.exe",
+  "sha256": "584DAD68BC74F1A8BF487A74A848C3113B7A6C039BE135557D4C324AD34EF951",
   "published_at": "2026-06-20",
   "notes": [
-    "Restores the compact trooper profile panel visibility in the main launcher screen.",
-    "Keeps the 0.3.1 updater handoff fix so old launchers close cleanly during installation.",
-    "Keeps server status, Steam-linked profiles, community updates, audio controls, and Galaxy Map support online."
+    "Restores the launcher trooper profile panel so players can see their Steam-linked name, rank, unit, progression, and profile actions.",
+    "Keeps website profile, community, store, server, audio, theme, and Steam-linked backend systems online.",
+    "Keeps TeamSpeak/TFAR helper checks and the updater install handoff in the public package."
   ],
   "downloads": {
     "windows": {
-      "url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.2-beta.exe",
-      "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.2-beta.exe",
-      "sha256": "5E3AA894ACFDD8D5FE0144B52943AF44EEBB66CF10E890B4B59AF7F91502D09D"
+      "url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.3-beta.exe",
+      "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.3-beta.exe",
+      "sha256": "584DAD68BC74F1A8BF487A74A848C3113B7A6C039BE135557D4C324AD34EF951"
     },
     "linux": {
       "url": "",
