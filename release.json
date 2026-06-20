@@ -3,7 +3,7 @@
   "channel": "beta",
   "title": "TCW Launcher Windows Beta",
   "summary": "Launcher profile panel hotfix and public website refresh.",
-  "mandatory": false,
+  "mandatory": true,
   "download_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.3-beta.exe",
   "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.3-beta.exe",
   "sha256": "584DAD68BC74F1A8BF487A74A848C3113B7A6C039BE135557D4C324AD34EF951",
