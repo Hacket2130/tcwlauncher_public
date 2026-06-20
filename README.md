@@ -9,18 +9,18 @@ https://tcwa3.co.uk/downloads/TCW-Launcher-Windows.zip
 
 ## Current Files
 
-- `downloads/TCW-Launcher-Windows-0.2.0-beta.zip`: current public Windows launcher package.
+- `downloads/TCWA3-Launcher-Setup-0.3.1-beta.exe`: current public Windows setup installer.
+- `downloads/TCW-Launcher-Windows-0.3.1-beta.zip`: current public Windows launcher package backup.
 - `release.json`: launcher update manifest used by the TCWA3 backend.
-- `SHA256SUMS.txt`: checksum for verifying the release zip.
+- `SHA256SUMS.txt`: checksums for verifying the public release files.
 
 ## Install
 
-1. Download `downloads/TCW-Launcher-Windows-0.2.0-beta.zip`.
-2. Extract the zip.
-3. Run `Install_TCWA3_Launcher.cmd`.
-4. Use the desktop shortcut named `TCWA3 Launcher`.
+1. Download `downloads/TCWA3-Launcher-Setup-0.3.1-beta.exe`.
+2. Run the setup file.
+3. Use the Desktop or Start Menu shortcut named `TCWA3 Launcher`.
 
-Future launcher updates are downloaded, verified, installed, and restarted by the launcher.
+Future launcher updates are downloaded, verified, installed, and restarted by the launcher. The setup installer closes any old launcher window first so players do not keep running the older version behind the update.
 
 ## Windows Blocking Fallback
 
