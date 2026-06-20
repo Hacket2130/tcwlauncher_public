@@ -11,6 +11,7 @@ https://tcwa3.co.uk/downloads/TCW-Launcher-Windows.zip
 
 - `downloads/TCWA3-Launcher-Setup-0.3.3-beta.exe`: current public Windows setup installer.
 - `downloads/TCW-Launcher-Windows-0.3.3-beta.zip`: current public Windows launcher package backup.
+- `downloads/TCWA3-Website-0.3.3-beta.zip`: current public website static-file package backup.
 - `release.json`: launcher update manifest used by the TCWA3 backend.
 - `SHA256SUMS.txt`: checksums for verifying the public release files.
 
