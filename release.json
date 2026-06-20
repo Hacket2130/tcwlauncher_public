@@ -1,23 +1,23 @@
 {
-  "version": "0.3.3-beta",
+  "version": "0.3.4-beta",
   "channel": "beta",
-  "title": "TCW Launcher Windows Beta",
-  "summary": "Launcher profile panel hotfix and public website refresh.",
+  "title": "TCW Launcher 0.3.4 Beta",
+  "summary": "Restores compact launcher profile details and keeps browser overlays clean.",
   "mandatory": true,
-  "download_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.3-beta.exe",
-  "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.3-beta.exe",
-  "sha256": "584DAD68BC74F1A8BF487A74A848C3113B7A6C039BE135557D4C324AD34EF951",
+  "download_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.4-beta.exe",
+  "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.4-beta.exe",
+  "sha256": "4AF06D01D6D3CB35729B128BA241F30660F80CF910086AF7367FAE80F9876C63",
   "published_at": "2026-06-20",
   "notes": [
-    "Restores the launcher trooper profile panel so players can see their Steam-linked name, rank, unit, progression, and profile actions.",
-    "Keeps website profile, community, store, server, audio, theme, and Steam-linked backend systems online.",
-    "Keeps TeamSpeak/TFAR helper checks and the updater install handoff in the public package."
+    "Shows the Steam-linked trooper name, rank, unit, progression, and profile actions on the launcher card.",
+    "Refreshes main-menu overlay visibility when entering or leaving the server browser.",
+    "Ships the current website/backend public profile, community, store, server, audio, theme, and updater systems."
   ],
   "downloads": {
     "windows": {
-      "url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.3-beta.exe",
-      "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.3-beta.exe",
-      "sha256": "584DAD68BC74F1A8BF487A74A848C3113B7A6C039BE135557D4C324AD34EF951"
+      "url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.4-beta.exe",
+      "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.4-beta.exe",
+      "sha256": "4AF06D01D6D3CB35729B128BA241F30660F80CF910086AF7367FAE80F9876C63"
     },
     "linux": {
       "url": "",
