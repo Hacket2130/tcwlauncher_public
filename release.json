@@ -1,23 +1,23 @@
 {
-  "version": "0.3.4-beta",
+  "version": "0.3.6-beta",
   "channel": "beta",
-  "title": "TCW Launcher 0.3.4 Beta",
-  "summary": "Restores compact launcher profile details and keeps browser overlays clean.",
+  "title": "TCW Launcher 0.3.6 Beta",
+  "summary": "Profile layout polish and marketplace coming-soon lockout.",
   "mandatory": true,
-  "download_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.4-beta.exe",
-  "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.4-beta.exe",
-  "sha256": "4AF06D01D6D3CB35729B128BA241F30660F80CF910086AF7367FAE80F9876C63",
-  "published_at": "2026-06-20",
+  "download_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.6-beta.exe",
+  "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.6-beta.exe",
+  "sha256": "03871BB753E1413950A39A9228B538345242DC686F6BC09061379DFBECED2513",
+  "published_at": "2026-06-21",
   "notes": [
-    "Shows the Steam-linked trooper name, rank, unit, progression, and profile actions on the launcher card.",
-    "Refreshes main-menu overlay visibility when entering or leaving the server browser.",
-    "Ships the current website/backend public profile, community, store, server, audio, theme, and updater systems."
+    "Moves the compact launcher profile card higher above the server heading and keeps the expanded military record view scroll-safe inside the player window.",
+    "Greys out the Store entry until approved marketplace items are live, avoiding the empty marketplace view.",
+    "Keeps server browser/menu visibility fixes and current backend-fed profile, audio, theme, community, and achievement systems."
   ],
   "downloads": {
     "windows": {
-      "url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.4-beta.exe",
-      "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.4-beta.exe",
-      "sha256": "4AF06D01D6D3CB35729B128BA241F30660F80CF910086AF7367FAE80F9876C63"
+      "url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.6-beta.exe",
+      "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.6-beta.exe",
+      "sha256": "03871BB753E1413950A39A9228B538345242DC686F6BC09061379DFBECED2513"
     },
     "linux": {
       "url": "",
