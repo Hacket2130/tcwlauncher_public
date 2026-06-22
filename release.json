@@ -1,24 +1,23 @@
 {
-  "version": "0.3.7-beta",
+  "version": "0.3.8-beta",
   "channel": "beta",
-  "title": "TCW Launcher 0.3.7 Beta",
-  "summary": "Community manager theme/profile-picture controls, duplicate profile cleanup, separate radio volume, audio cache cleanup, and live backend endpoint fixes.",
+  "title": "TCW Launcher 0.3.8 Beta",
+  "summary": "Public theme and profile-picture refresh with quiet optional endpoint fallbacks.",
   "mandatory": true,
-  "download_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.7-beta.exe",
-  "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.7-beta.exe",
-  "sha256": "382BEBAC47E771B9E66D0AB0012B8A41EE55F3D1E423B8928FB24F45233D28E1",
-  "published_at": "2026-06-21",
+  "download_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.8-beta.exe",
+  "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.8-beta.exe",
+  "sha256": "BA29115BE9C80525D467C4874A0AE58E74E5A9E788B759F51806844E2B1BD7C7",
+  "published_at": "2026-06-22",
   "notes": [
-    "Adds manager-side theme editing, folder upload support, live/inactive theme controls, and approved profile-picture uploads.",
-    "Stops duplicate public profile cards when loading more profiles on the website.",
-    "Adds separate Holonet radio volume and removes deleted backend audio files from each launcher cache.",
-    "Keeps backend-powered server status, community news, events, audio, and Steam-linked profiles online."
+    "Adds the public 212th and Razor Squadron themes, expands TCW Standard with Geonosis artwork, and refreshes approved TCWA3 profile portraits.",
+    "Keeps optional avatar and marketplace backend fallbacks quiet in the launcher debug panel.",
+    "Keeps empty marketplace placeholder text correctly laid out while the store remains disabled."
   ],
   "downloads": {
     "windows": {
-      "url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.7-beta.exe",
-      "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.7-beta.exe",
-      "sha256": "382BEBAC47E771B9E66D0AB0012B8A41EE55F3D1E423B8928FB24F45233D28E1"
+      "url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.8-beta.exe",
+      "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.8-beta.exe",
+      "sha256": "BA29115BE9C80525D467C4874A0AE58E74E5A9E788B759F51806844E2B1BD7C7"
     },
     "linux": {
       "url": "",
