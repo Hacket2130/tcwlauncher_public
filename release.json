@@ -1,23 +1,21 @@
 {
-  "version": "0.3.8-beta",
+  "version": "0.3.9-beta",
   "channel": "beta",
-  "title": "TCW Launcher 0.3.8 Beta",
-  "summary": "Public theme and profile-picture refresh with quiet optional endpoint fallbacks.",
-  "mandatory": true,
-  "download_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.8-beta.exe",
-  "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.8-beta.exe",
-  "sha256": "BA29115BE9C80525D467C4874A0AE58E74E5A9E788B759F51806844E2B1BD7C7",
-  "published_at": "2026-06-22",
+  "title": "TCW Launcher Windows Beta",
+  "summary": "Fixes live launcher theme switching so community themes update backgrounds, logos, and readable dark/light palettes.",
+  "mandatory": false,
+  "download_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.9-beta.exe",
+  "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.9-beta.exe",
+  "sha256": "42EA381C5A3B2CC6590839309A8C10C1B0C6FE99D3DA03886869692CC35F810A",
+  "published_at": "2026-06-23",
   "notes": [
-    "Adds the public 212th and Razor Squadron themes, expands TCW Standard with Geonosis artwork, and refreshes approved TCWA3 profile portraits.",
-    "Keeps optional avatar and marketplace backend fallbacks quiet in the launcher debug panel.",
-    "Keeps empty marketplace placeholder text correctly laid out while the store remains disabled."
+    "Launcher themes now accept backend theme asset metadata and re-apply immediately after selection."
   ],
   "downloads": {
     "windows": {
-      "url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.8-beta.exe",
-      "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.8-beta.exe",
-      "sha256": "BA29115BE9C80525D467C4874A0AE58E74E5A9E788B759F51806844E2B1BD7C7"
+      "url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.9-beta.exe",
+      "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.9-beta.exe",
+      "sha256": "42EA381C5A3B2CC6590839309A8C10C1B0C6FE99D3DA03886869692CC35F810A"
     },
     "linux": {
       "url": "",
