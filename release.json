@@ -1,26 +1,26 @@
 {
-  "version": "0.4.0-beta",
+  "version": "0.4.1-beta",
   "channel": "beta",
   "title": "TCW Launcher Windows Beta",
   "summary": "Compiled TCW Launcher release.",
   "mandatory": false,
-  "download_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.0-beta.exe",
-  "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.0-beta.exe",
-  "sha256": "8575159AE0A5323B446F5E9389FADA90F2E0AC4F50FC23143CF57F70E7D71F6E",
+  "download_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.1-beta.exe",
+  "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.1-beta.exe",
+  "sha256": "2D6A2866B4BCC85C940BBC1B22AEB3D1FA9F7A8C18416854971080FC962576A4",
   "published_at": "2026-06-24",
   "notes": [
-    "Major Roleplay MMO command and quest terminal redesign while keeping Action as a separate direct combat path."
+    "Identity and roster continuity polish for Steam, Discord, Root Storm, and TCWA3 profile surfaces."
   ],
   "downloads": {
     "windows": {
-      "url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.0-beta.exe",
-      "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.0-beta.exe",
-      "sha256": "8575159AE0A5323B446F5E9389FADA90F2E0AC4F50FC23143CF57F70E7D71F6E"
+      "url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.1-beta.exe",
+      "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.1-beta.exe",
+      "sha256": "2D6A2866B4BCC85C940BBC1B22AEB3D1FA9F7A8C18416854971080FC962576A4"
     },
     "linux": {
-      "url": "https://tcwa3.co.uk/downloads/TCW-Launcher-Linux-0.4.0-beta.zip",
+      "url": "https://tcwa3.co.uk/downloads/TCW-Launcher-Linux-0.4.1-beta.zip",
       "installer_url": "",
-      "sha256": "12BB159A89C9A7F1934F3391FC67F2AB9601F831262D0F266C3029A3050A3281"
+      "sha256": "E1C66CF32EBD7FAECE654F3709665774E186EA5589A7D5CD83071ABDFE4B8AD8"
     }
   }
 }
