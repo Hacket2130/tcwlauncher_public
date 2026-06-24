@@ -1,26 +1,26 @@
 {
-  "version": "0.3.13-beta",
+  "version": "0.3.14-beta",
   "channel": "beta",
-  "title": "TCW Launcher 0.3.13 Beta",
-  "summary": "Adds a first-class Linux x86_64 launcher build alongside the Windows setup, with dual-platform manifests, download UI, and release verification.",
+  "title": "TCW Launcher 0.3.14 Beta",
+  "summary": "QoL fixes, profile persistence, Community reactions, safer event banners, Roleplay home, and Discord bot bridge foundation.",
   "mandatory": false,
-  "download_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.13-beta.exe",
-  "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.13-beta.exe",
-  "sha256": "C44BF3B2B3258ABC09B648754A1B58E76073AF13E78F40860BCC17FA87FB74DA",
+  "download_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.14-beta.exe",
+  "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.14-beta.exe",
+  "sha256": "1EF06387FA979E889EB6EA7E6102B7FD6D922EE195905F61864BB87F57790BD6",
   "published_at": "2026-06-24",
   "notes": [
-    "Adds a first-class Linux x86_64 launcher build alongside the Windows setup."
+    "QoL fixes, profile persistence, Community reactions, safer event banners, Roleplay home, and Discord bot bridge foundation."
   ],
   "downloads": {
     "windows": {
-      "url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.13-beta.exe",
-      "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.13-beta.exe",
-      "sha256": "C44BF3B2B3258ABC09B648754A1B58E76073AF13E78F40860BCC17FA87FB74DA"
+      "url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.14-beta.exe",
+      "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.14-beta.exe",
+      "sha256": "1EF06387FA979E889EB6EA7E6102B7FD6D922EE195905F61864BB87F57790BD6"
     },
     "linux": {
-      "url": "https://tcwa3.co.uk/downloads/TCW-Launcher-Linux-0.3.13-beta.zip",
+      "url": "https://tcwa3.co.uk/downloads/TCW-Launcher-Linux-0.3.14-beta.zip",
       "installer_url": "",
-      "sha256": "1754146BEAF19532303488C14666EC2B2069AF8E182E9BC3A980AB8EF3070C7D"
+      "sha256": "037D5C644B42C91CF6CF684031AB64BC58620BA5BE1138DE8EBD4BFC38709999"
     }
   }
 }

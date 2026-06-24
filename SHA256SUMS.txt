@@ -2,6 +2,7 @@
 d1f3e57c5812d540cda9306395c57a24725b190ee00930d585e060fd7de626dc  downloads/TCWA3-Backend-0.3.11-beta.zip
 a1973f201fcbd41b3ec7b7de98566f67618b1c3a898e66764545c90042e52d9a  downloads/TCWA3-Backend-0.3.12-beta.zip
 c4e508ea3a077fe1b6683dea51cf3f4c72acc07b85e004d05bfaddf311f148b0  downloads/TCWA3-Backend-0.3.13-beta.zip
+8ba02b20fa9bcf8a303732361e6d45b079f0b93ac200f3ca27d5e90dafb61d87  downloads/TCWA3-Backend-0.3.14-beta.zip
 8e89b16eb2a85d6d84669fcdff698a59383bfe276619469a71ee6e1dedb8ce9e  downloads/TCWA3-Backend-0.3.6-beta.zip
 f3c9c656404b50ca36412f53714349f5ca8c45f95d47f941017c4debd462bb66  downloads/TCWA3-Backend-0.3.7-beta.zip
 1ca574124def19fad21f46fbd7c374afeeba0e88dd7c7ee6219ed29ae71118e9  downloads/TCWA3-Backend-0.3.8-beta.zip
@@ -10,6 +11,7 @@ d10b818366cf6432c28c7c2e2d3ca14341ef4ef4e84527565fc77e93eac928dd  downloads/TCWA
 627c7e84eb122ab0cef1d35ee388c1061fe6873906941251443e56f8c30171ba  downloads/TCWA3-Launcher-Setup-0.3.11-beta.exe
 77dc86a5ed45d2184ecdf70725eb4e17274fe5127de7fff3b8803180994309f7  downloads/TCWA3-Launcher-Setup-0.3.12-beta.exe
 c44bf3b2b3258abc09b648754a1b58e76073af13e78f40860bcc17fa87fb74da  downloads/TCWA3-Launcher-Setup-0.3.13-beta.exe
+1ef06387fa979e889eb6ea7e6102b7fd6d922ee195905f61864bb87f57790bd6  downloads/TCWA3-Launcher-Setup-0.3.14-beta.exe
 f7ca29b9a9296ebc4c9541fb5457d44ab8ebfe342d804199f3a23a22e822902c  downloads/TCWA3-Launcher-Setup-0.3.1-beta.exe
 5e3aa894acfdd8d5fe0144b52943af44eebb66cf10e890b4b59af7f91502d09d  downloads/TCWA3-Launcher-Setup-0.3.2-beta.exe
 584dad68bc74f1a8bf487a74a848c3113b7a6c039be135557d4c324ad34ef951  downloads/TCWA3-Launcher-Setup-0.3.3-beta.exe
@@ -23,6 +25,7 @@ d1dc4255f5dac8f538b1a2e701c408ef66db948f710564ad830442ea2b91629e  downloads/TCWA
 efebdfd6e3d93dab1c47354175207aa933affed2df1470bbf0f424be29d68e5a  downloads/TCWA3-Website-0.3.11-beta.zip
 b02f8e179be759098d66b5da135c09bb7118a215fb1beb97dc304dc40e6dd96c  downloads/TCWA3-Website-0.3.12-beta.zip
 def9b81d2adfd38b0afbebdde97f57cb090f7c14179a80bb4ed2ecfc07972d03  downloads/TCWA3-Website-0.3.13-beta.zip
+03fee137c5a4c7625d839713199d02e8a5de2ce0332b765a1a686372ade245ef  downloads/TCWA3-Website-0.3.14-beta.zip
 841b5bbd80ea04abd7ea732b0d7e4cae367621684261c8693a1d2b6a9622d7c7  downloads/TCWA3-Website-0.3.3-beta.zip
 85e76dbeaa6864b9f80f3eec04d32423148a3b6d625871014331e12be7fe9043  downloads/TCWA3-Website-0.3.4-beta.zip
 a48ff1c9e291e9acadc47461acea1fe6abcc6b1472dada332e56cc8b39303548  downloads/TCWA3-Website-0.3.5-beta.zip
@@ -31,12 +34,14 @@ b54bdb8d6575d9173d63a037a5ab47c5c2038c4095c0b9f6f078f681a964179d  downloads/TCWA
 f7224979eec446d14349f6f76c2aacf767ca68af24ce2dbd4e18b3351d19a58c  downloads/TCWA3-Website-0.3.8-beta.zip
 14efac8ebba0b97c17086fd4dfb879216c47e7ef81f904199ddacf9d897057fd  downloads/TCWA3-Website-0.3.9-beta.zip
 1754146beaf19532303488c14666ec2b2069af8e182e9bc3a980ab8ef3070c7d  downloads/TCW-Launcher-Linux-0.3.13-beta.zip
+037d5c644b42c91cf6cf684031ab64bc58620ba5be1138de8ebd4bfc38709999  downloads/TCW-Launcher-Linux-0.3.14-beta.zip
 c06ab726852d923f1aa5130170e0daea3a86bf9d0f82d9891bde789cc164d2d9  downloads/TCW-Launcher-Windows-0.1.5-beta.zip
 826ff18424a107da284aa491092ed4612b3e968ce18efad60484015846072115  downloads/TCW-Launcher-Windows-0.2.0-beta.zip
 8eaf2910c6f32d70bf3e4a921f1beee53134bc03cb264e7605e1723df95f3c99  downloads/TCW-Launcher-Windows-0.3.10-beta.zip
 c5ab56b794dce6a11433c677fa38343f0b7b15ae3879734334720339c5efb5e1  downloads/TCW-Launcher-Windows-0.3.11-beta.zip
 d805943c0797f1928d0266ccde31bb17faf118b8a229e3bd2beaf83fddda7088  downloads/TCW-Launcher-Windows-0.3.12-beta.zip
 29fcaeab290b4ff0c81bef16f83ea5a664b433203f0001f721b34c75d1b3ddd0  downloads/TCW-Launcher-Windows-0.3.13-beta.zip
+c9d7d462f2519df14d4256e683bf43ea865d061aa676c5070ec32334c6816099  downloads/TCW-Launcher-Windows-0.3.14-beta.zip
 8d5d6ce4848df29e9b34273cc703f1aa9a78a14a8b9ed269441270e937b30b15  downloads/TCW-Launcher-Windows-0.3.1-beta.zip
 61418a83708b6b618edc3f85848b4c232f5ee2a7d8e7c6289e51cd18325911ac  downloads/TCW-Launcher-Windows-0.3.2-beta.zip
 294201b0edf370113eb36fcfc1233759eb9a072f1d207beb8cb32346a4c0110b  downloads/TCW-Launcher-Windows-0.3.3-beta.zip
