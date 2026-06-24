@@ -13,7 +13,7 @@ f7ca29b9a9296ebc4c9541fb5457d44ab8ebfe342d804199f3a23a22e822902c  downloads/TCWA
 382bebac47e771b9e66d0ab0012b8a41ee55f3d1e423b8928fb24f45233d28e1  downloads/TCWA3-Launcher-Setup-0.3.7-beta.exe
 ba29115be9c80525d467c4874a0ae58e74e5a9e788b759f51806844e2b1bd7c7  downloads/TCWA3-Launcher-Setup-0.3.8-beta.exe
 d1dc4255f5dac8f538b1a2e701c408ef66db948f710564ad830442ea2b91629e  downloads/TCWA3-Launcher-Setup-0.3.9-beta.exe
-8f3d5b8eee493788dbcaa5ca6f3585bf5de6aa1988269f625b7574690dfd37fe  downloads/TCWA3-Website-0.3.10-beta.zip
+497307ea813b451e1297aed6323775bb1c75a3fd175f18c537e1e5ff451c0337  downloads/TCWA3-Website-0.3.10-beta.zip
 841b5bbd80ea04abd7ea732b0d7e4cae367621684261c8693a1d2b6a9622d7c7  downloads/TCWA3-Website-0.3.3-beta.zip
 85e76dbeaa6864b9f80f3eec04d32423148a3b6d625871014331e12be7fe9043  downloads/TCWA3-Website-0.3.4-beta.zip
 a48ff1c9e291e9acadc47461acea1fe6abcc6b1472dada332e56cc8b39303548  downloads/TCWA3-Website-0.3.5-beta.zip
