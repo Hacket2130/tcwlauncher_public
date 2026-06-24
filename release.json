@@ -1,26 +1,26 @@
 {
-  "version": "0.3.14-beta",
+  "version": "0.4.0-beta",
   "channel": "beta",
-  "title": "TCW Launcher 0.3.14 Beta",
-  "summary": "QoL fixes, profile persistence, Community reactions, safer event banners, Roleplay home, and Discord bot bridge foundation.",
+  "title": "TCW Launcher Windows Beta",
+  "summary": "Compiled TCW Launcher release.",
   "mandatory": false,
-  "download_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.14-beta.exe",
-  "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.14-beta.exe",
-  "sha256": "1EF06387FA979E889EB6EA7E6102B7FD6D922EE195905F61864BB87F57790BD6",
+  "download_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.0-beta.exe",
+  "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.0-beta.exe",
+  "sha256": "8575159AE0A5323B446F5E9389FADA90F2E0AC4F50FC23143CF57F70E7D71F6E",
   "published_at": "2026-06-24",
   "notes": [
-    "QoL fixes, profile persistence, Community reactions, safer event banners, Roleplay home, and Discord bot bridge foundation."
+    "Major Roleplay MMO command and quest terminal redesign while keeping Action as a separate direct combat path."
   ],
   "downloads": {
     "windows": {
-      "url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.14-beta.exe",
-      "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.14-beta.exe",
-      "sha256": "1EF06387FA979E889EB6EA7E6102B7FD6D922EE195905F61864BB87F57790BD6"
+      "url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.0-beta.exe",
+      "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.0-beta.exe",
+      "sha256": "8575159AE0A5323B446F5E9389FADA90F2E0AC4F50FC23143CF57F70E7D71F6E"
     },
     "linux": {
-      "url": "https://tcwa3.co.uk/downloads/TCW-Launcher-Linux-0.3.14-beta.zip",
+      "url": "https://tcwa3.co.uk/downloads/TCW-Launcher-Linux-0.4.0-beta.zip",
       "installer_url": "",
-      "sha256": "037D5C644B42C91CF6CF684031AB64BC58620BA5BE1138DE8EBD4BFC38709999"
+      "sha256": "12BB159A89C9A7F1934F3391FC67F2AB9601F831262D0F266C3029A3050A3281"
     }
   }
 }
