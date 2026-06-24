@@ -1,26 +1,26 @@
 {
-  "version": "0.3.12-beta",
+  "version": "0.3.13-beta",
   "channel": "beta",
-  "title": "TCW Launcher Windows Beta",
-  "summary": "Compiled TCW Launcher release.",
+  "title": "TCW Launcher 0.3.13 Beta",
+  "summary": "Adds a first-class Linux x86_64 launcher build alongside the Windows setup, with dual-platform manifests, download UI, and release verification.",
   "mandatory": false,
-  "download_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.12-beta.exe",
-  "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.12-beta.exe",
-  "sha256": "77DC86A5ED45D2184ECDF70725EB4E17274FE5127DE7FFF3B8803180994309F7",
+  "download_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.13-beta.exe",
+  "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.13-beta.exe",
+  "sha256": "C44BF3B2B3258ABC09B648754A1B58E76073AF13E78F40860BCC17FA87FB74DA",
   "published_at": "2026-06-24",
   "notes": [
-    "0.3.12 hotfix: launcher API reliability, logo layout, server flyout, native Community and Quests panels, profile avatar persistence, server catalog controls, and Galactic Requisitions copy."
+    "Adds a first-class Linux x86_64 launcher build alongside the Windows setup."
   ],
   "downloads": {
     "windows": {
-      "url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.12-beta.exe",
-      "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.12-beta.exe",
-      "sha256": "77DC86A5ED45D2184ECDF70725EB4E17274FE5127DE7FFF3B8803180994309F7"
+      "url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.13-beta.exe",
+      "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.13-beta.exe",
+      "sha256": "C44BF3B2B3258ABC09B648754A1B58E76073AF13E78F40860BCC17FA87FB74DA"
     },
     "linux": {
-      "url": "",
+      "url": "https://tcwa3.co.uk/downloads/TCW-Launcher-Linux-0.3.13-beta.zip",
       "installer_url": "",
-      "sha256": ""
+      "sha256": "1754146BEAF19532303488C14666EC2B2069AF8E182E9BC3A980AB8EF3070C7D"
     }
   }
 }
