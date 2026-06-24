@@ -1,21 +1,21 @@
 {
-  "version": "0.3.9-beta",
+  "version": "0.3.10-beta",
   "channel": "beta",
   "title": "TCW Launcher Windows Beta",
   "summary": "Completes the TCWA3 launcher, website, backend, release, and operations quality pass.",
   "mandatory": false,
-  "download_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.9-beta.exe",
-  "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.9-beta.exe",
-  "sha256": "D1DC4255F5DAC8F538B1A2E701C408EF66DB948F710564AD830442EA2B91629E",
+  "download_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.10-beta.exe",
+  "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.10-beta.exe",
+  "sha256": "D10B818366CF6432C28C7C2E2D3CA14341EF4EF4E84527565FC77E93EAC928DD",
   "published_at": "2026-06-24",
   "notes": [
     "Completes the TCWA3 launcher, website, backend, release, and operations quality pass."
   ],
   "downloads": {
     "windows": {
-      "url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.9-beta.exe",
-      "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.9-beta.exe",
-      "sha256": "D1DC4255F5DAC8F538B1A2E701C408EF66DB948F710564AD830442EA2B91629E"
+      "url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.10-beta.exe",
+      "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.10-beta.exe",
+      "sha256": "D10B818366CF6432C28C7C2E2D3CA14341EF4EF4E84527565FC77E93EAC928DD"
     },
     "linux": {
       "url": "",
