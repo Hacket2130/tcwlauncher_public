@@ -2,20 +2,20 @@
   "version": "0.3.9-beta",
   "channel": "beta",
   "title": "TCW Launcher Windows Beta",
-  "summary": "Fixes live launcher theme switching so community themes update backgrounds, logos, and readable dark/light palettes.",
+  "summary": "Completes the TCWA3 launcher, website, backend, release, and operations quality pass.",
   "mandatory": false,
   "download_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.9-beta.exe",
   "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.9-beta.exe",
-  "sha256": "42EA381C5A3B2CC6590839309A8C10C1B0C6FE99D3DA03886869692CC35F810A",
-  "published_at": "2026-06-23",
+  "sha256": "D1DC4255F5DAC8F538B1A2E701C408EF66DB948F710564AD830442EA2B91629E",
+  "published_at": "2026-06-24",
   "notes": [
-    "Launcher themes now accept backend theme asset metadata and re-apply immediately after selection."
+    "Completes the TCWA3 launcher, website, backend, release, and operations quality pass."
   ],
   "downloads": {
     "windows": {
       "url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.9-beta.exe",
       "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.9-beta.exe",
-      "sha256": "42EA381C5A3B2CC6590839309A8C10C1B0C6FE99D3DA03886869692CC35F810A"
+      "sha256": "D1DC4255F5DAC8F538B1A2E701C408EF66DB948F710564AD830442EA2B91629E"
     },
     "linux": {
       "url": "",
