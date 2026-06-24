@@ -1,26 +1,26 @@
 {
-  "version": "0.4.2-beta",
+  "version": "0.4.3-beta",
   "channel": "beta",
   "title": "TCW Launcher Windows Beta",
   "summary": "Compiled TCW Launcher release.",
   "mandatory": false,
-  "download_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.2-beta.exe",
-  "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.2-beta.exe",
-  "sha256": "CFCF4F108F7EB190B4049917216E0902A8BE552236FC68A16DB4AD21D9823A35",
+  "download_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.3-beta.exe",
+  "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.3-beta.exe",
+  "sha256": "273B7D6945765782CAA786149CA0BB9DDBD87460FD333D1EAF36CEB7A5193F00",
   "published_at": "2026-06-24",
   "notes": [
-    "Adds progression service-record briefings across profile, Roleplay Command, and public profile surfaces."
+    "Adds a responsive launcher achievement unlock toast for backend-authoritative TCWA3 awards."
   ],
   "downloads": {
     "windows": {
-      "url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.2-beta.exe",
-      "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.2-beta.exe",
-      "sha256": "CFCF4F108F7EB190B4049917216E0902A8BE552236FC68A16DB4AD21D9823A35"
+      "url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.3-beta.exe",
+      "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.3-beta.exe",
+      "sha256": "273B7D6945765782CAA786149CA0BB9DDBD87460FD333D1EAF36CEB7A5193F00"
     },
     "linux": {
-      "url": "https://tcwa3.co.uk/downloads/TCW-Launcher-Linux-0.4.2-beta.zip",
+      "url": "https://tcwa3.co.uk/downloads/TCW-Launcher-Linux-0.4.3-beta.zip",
       "installer_url": "",
-      "sha256": "48BF2F4D47A0414443027B57A8F100F59E49D6A9E803A5DBF30F6AD0211EA3D4"
+      "sha256": "CBBB98A5583EB37F2FE207C61D2262E00097D7D5BDA45D915344B77E6ADF14B5"
     }
   }
 }
