@@ -1,24 +1,21 @@
 {
-  "version": "0.3.11-beta",
+  "version": "0.3.12-beta",
   "channel": "beta",
-  "title": "TCW Launcher 0.3.11 Beta",
-  "summary": "Ships the TCWA3 quality push with Community and Quests hubs, profile reliability fixes, admin controls, launcher polish, logo scaling, and Galactic Requesitions locked for a future release.",
+  "title": "TCW Launcher Windows Beta",
+  "summary": "Compiled TCW Launcher release.",
   "mandatory": false,
-  "download_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.11-beta.exe",
-  "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.11-beta.exe",
-  "sha256": "627C7E84EB122AB0CEF1D35EE388C1061FE6873906941251443E56F8C30171BA",
+  "download_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.12-beta.exe",
+  "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.12-beta.exe",
+  "sha256": "77DC86A5ED45D2184ECDF70725EB4E17274FE5127DE7FFF3B8803180994309F7",
   "published_at": "2026-06-24",
   "notes": [
-    "Community and Quests hubs are now available in the website and launcher.",
-    "Profile/auth handling, roster fallback, avatar persistence, and expanded preflight coverage were improved.",
-    "Galactic Requesitions is intentionally locked with a coming-future panel until economy and grant controls are ready.",
-    "Launcher buttons, light theme readability, and logo scaling were polished."
+    "0.3.12 hotfix: launcher API reliability, logo layout, server flyout, native Community and Quests panels, profile avatar persistence, server catalog controls, and Galactic Requisitions copy."
   ],
   "downloads": {
     "windows": {
-      "url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.11-beta.exe",
-      "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.11-beta.exe",
-      "sha256": "627C7E84EB122AB0CEF1D35EE388C1061FE6873906941251443E56F8C30171BA"
+      "url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.12-beta.exe",
+      "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.3.12-beta.exe",
+      "sha256": "77DC86A5ED45D2184ECDF70725EB4E17274FE5127DE7FFF3B8803180994309F7"
     },
     "linux": {
       "url": "",
