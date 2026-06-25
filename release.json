@@ -1,26 +1,28 @@
 {
-  "version": "0.4.3-beta",
+  "version": "0.4.4-beta",
   "channel": "beta",
-  "title": "TCW Launcher Windows Beta",
-  "summary": "Compiled TCW Launcher release.",
+  "title": "TCW Launcher 0.4.4 Beta",
+  "summary": "Player cohesion, website polish, and launcher audio control improvements.",
   "mandatory": false,
-  "download_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.3-beta.exe",
-  "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.3-beta.exe",
-  "sha256": "273B7D6945765782CAA786149CA0BB9DDBD87460FD333D1EAF36CEB7A5193F00",
-  "published_at": "2026-06-24",
+  "download_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.4-beta.exe",
+  "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.4-beta.exe",
+  "sha256": "3F344FDF4D8603C81BEFFE84138B7DC75BFA896E227332FAE8FCC3D709FA4DD9",
+  "published_at": "2026-06-25",
   "notes": [
-    "Adds a responsive launcher achievement unlock toast for backend-authoritative TCWA3 awards."
+    "Unifies player-facing service-record wording across launcher and website.",
+    "Adds launcher menu music next-track control and improved audio panel polish.",
+    "Refreshes website command-console graphics and hover polish."
   ],
   "downloads": {
     "windows": {
-      "url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.3-beta.exe",
-      "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.3-beta.exe",
-      "sha256": "273B7D6945765782CAA786149CA0BB9DDBD87460FD333D1EAF36CEB7A5193F00"
+      "url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.4-beta.exe",
+      "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.4-beta.exe",
+      "sha256": "3F344FDF4D8603C81BEFFE84138B7DC75BFA896E227332FAE8FCC3D709FA4DD9"
     },
     "linux": {
-      "url": "https://tcwa3.co.uk/downloads/TCW-Launcher-Linux-0.4.3-beta.zip",
+      "url": "https://tcwa3.co.uk/downloads/TCW-Launcher-Linux-0.4.4-beta.zip",
       "installer_url": "",
-      "sha256": "CBBB98A5583EB37F2FE207C61D2262E00097D7D5BDA45D915344B77E6ADF14B5"
+      "sha256": "3BB61A5354C5F06A804B1B868EB9E26129DFB019F5A42E00BA20DAF739C1A655"
     }
   }
 }
