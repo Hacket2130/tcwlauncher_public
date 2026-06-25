@@ -6,7 +6,7 @@
   "mandatory": false,
   "download_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.5-beta.exe",
   "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.5-beta.exe",
-  "sha256": "A8309FC112EBBCB20AEA3711453F2CAB7AD1E28636E9EAA3B06ECEA4072073B9",
+  "sha256": "8B82CBA38FC54E0849F5A085349D26AFD9BE7322C8158FAA5B389E6D4F50EB3C",
   "published_at": "2026-06-25",
   "notes": [
     "Player-facing copy now presents TCWA3 as one service network across launcher and website.",
@@ -16,7 +16,7 @@
     "windows": {
       "url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.5-beta.exe",
       "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.5-beta.exe",
-      "sha256": "A8309FC112EBBCB20AEA3711453F2CAB7AD1E28636E9EAA3B06ECEA4072073B9"
+      "sha256": "8B82CBA38FC54E0849F5A085349D26AFD9BE7322C8158FAA5B389E6D4F50EB3C"
     },
     "linux": {
       "url": "https://tcwa3.co.uk/downloads/TCW-Launcher-Linux-0.4.5-beta.zip",
