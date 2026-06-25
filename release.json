@@ -1,28 +1,27 @@
 {
-  "version": "0.4.4-beta",
+  "version": "0.4.5-beta",
   "channel": "beta",
-  "title": "TCW Launcher 0.4.4 Beta",
-  "summary": "Player cohesion, website polish, and launcher audio control improvements.",
+  "title": "TCW Launcher 0.4.5 Beta",
+  "summary": "Player-facing copy cohesion gate and service-network wording polish.",
   "mandatory": false,
-  "download_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.4-beta.exe",
-  "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.4-beta.exe",
-  "sha256": "3F344FDF4D8603C81BEFFE84138B7DC75BFA896E227332FAE8FCC3D709FA4DD9",
+  "download_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.5-beta.exe",
+  "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.5-beta.exe",
+  "sha256": "A8309FC112EBBCB20AEA3711453F2CAB7AD1E28636E9EAA3B06ECEA4072073B9",
   "published_at": "2026-06-25",
   "notes": [
-    "Unifies player-facing service-record wording across launcher and website.",
-    "Adds launcher menu music next-track control and improved audio panel polish.",
-    "Refreshes website command-console graphics and hover polish."
+    "Player-facing copy now presents TCWA3 as one service network across launcher and website.",
+    "Release readiness now checks normal player copy for internal implementation names before public announcements."
   ],
   "downloads": {
     "windows": {
-      "url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.4-beta.exe",
-      "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.4-beta.exe",
-      "sha256": "3F344FDF4D8603C81BEFFE84138B7DC75BFA896E227332FAE8FCC3D709FA4DD9"
+      "url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.5-beta.exe",
+      "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.5-beta.exe",
+      "sha256": "A8309FC112EBBCB20AEA3711453F2CAB7AD1E28636E9EAA3B06ECEA4072073B9"
     },
     "linux": {
-      "url": "https://tcwa3.co.uk/downloads/TCW-Launcher-Linux-0.4.4-beta.zip",
+      "url": "https://tcwa3.co.uk/downloads/TCW-Launcher-Linux-0.4.5-beta.zip",
       "installer_url": "",
-      "sha256": "3BB61A5354C5F06A804B1B868EB9E26129DFB019F5A42E00BA20DAF739C1A655"
+      "sha256": "3A2673285C4E113656245432FBDB4736446E199A79F2DEB4647200CF1F2428E2"
     }
   }
 }
