@@ -1,26 +1,26 @@
 {
-  "version": "0.4.5-beta",
+  "version": "0.4.6-beta",
   "channel": "beta",
   "title": "TCW Launcher 0.4.5 Beta",
-  "summary": "Player-facing copy cohesion gate and service-network wording polish.",
+  "summary": "Roleplay Command is feature-locked until RP launches as a proper feature.",
   "mandatory": false,
-  "download_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.5-beta.exe",
-  "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.5-beta.exe",
-  "sha256": "96AA4B9ED76358C2911A82B79557127777AE1879FAB9B9447C46575B3F4D0F20",
+  "download_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.6-beta.exe",
+  "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.6-beta.exe",
+  "sha256": "3DFED97C18C9E9622303485ABBCC7FA5EB87190BCF7A9DFD3237347A3FF932A9",
   "published_at": "2026-06-25",
   "notes": [
     "Roleplay Command is feature-locked until RP launches as a proper feature; Action remains the live combat path."
   ],
   "downloads": {
     "windows": {
-      "url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.5-beta.exe",
-      "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.5-beta.exe",
-      "sha256": "96AA4B9ED76358C2911A82B79557127777AE1879FAB9B9447C46575B3F4D0F20"
+      "url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.6-beta.exe",
+      "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.6-beta.exe",
+      "sha256": "3DFED97C18C9E9622303485ABBCC7FA5EB87190BCF7A9DFD3237347A3FF932A9"
     },
     "linux": {
-      "url": "https://tcwa3.co.uk/downloads/TCW-Launcher-Linux-0.4.5-beta.zip",
+      "url": "https://tcwa3.co.uk/downloads/TCW-Launcher-Linux-0.4.6-beta.zip",
       "installer_url": "",
-      "sha256": "88C0286E1CE3FC4004C5D5A20B6803E7D6089E809A81159AA6366A76D56DA856"
+      "sha256": "888950C2689AED163871CF4589FF92642D4CAEE576C6B49EB9423C0AE5D44C3C"
     }
   }
 }
