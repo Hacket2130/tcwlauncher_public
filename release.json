@@ -1,26 +1,26 @@
 {
-  "version": "0.4.6-beta",
+  "version": "0.4.7-beta",
   "channel": "beta",
   "title": "TCW Launcher 0.4.5 Beta",
-  "summary": "Roleplay Command is feature-locked until RP launches as a proper feature.",
+  "summary": "Quest and unfinished WIP surfaces are feature-locked until ready for public release.",
   "mandatory": false,
-  "download_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.6-beta.exe",
-  "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.6-beta.exe",
-  "sha256": "3DFED97C18C9E9622303485ABBCC7FA5EB87190BCF7A9DFD3237347A3FF932A9",
+  "download_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.7-beta.exe",
+  "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.7-beta.exe",
+  "sha256": "746359E9BF5CEC2E831CD8E4BB04F2AFB6834CF7DB60B3E910F1C4A9068D4F43",
   "published_at": "2026-06-25",
   "notes": [
-    "Roleplay Command is feature-locked until RP launches as a proper feature; Action remains the live combat path."
+    "Quests and unfinished WIP surfaces are locked behind future-feature panels until their public release."
   ],
   "downloads": {
     "windows": {
-      "url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.6-beta.exe",
-      "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.6-beta.exe",
-      "sha256": "3DFED97C18C9E9622303485ABBCC7FA5EB87190BCF7A9DFD3237347A3FF932A9"
+      "url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.7-beta.exe",
+      "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.7-beta.exe",
+      "sha256": "746359E9BF5CEC2E831CD8E4BB04F2AFB6834CF7DB60B3E910F1C4A9068D4F43"
     },
     "linux": {
-      "url": "https://tcwa3.co.uk/downloads/TCW-Launcher-Linux-0.4.6-beta.zip",
+      "url": "https://tcwa3.co.uk/downloads/TCW-Launcher-Linux-0.4.7-beta.zip",
       "installer_url": "",
-      "sha256": "888950C2689AED163871CF4589FF92642D4CAEE576C6B49EB9423C0AE5D44C3C"
+      "sha256": "2F0A7B57518B413B345ADC6E1A776BEACE4974819BC189390A67CC47907CC470"
     }
   }
 }
