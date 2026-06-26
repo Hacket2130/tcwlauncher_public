@@ -6,22 +6,21 @@
   "mandatory": false,
   "download_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.5-beta.exe",
   "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.5-beta.exe",
-  "sha256": "8B82CBA38FC54E0849F5A085349D26AFD9BE7322C8158FAA5B389E6D4F50EB3C",
+  "sha256": "96AA4B9ED76358C2911A82B79557127777AE1879FAB9B9447C46575B3F4D0F20",
   "published_at": "2026-06-25",
   "notes": [
-    "Player-facing copy now presents TCWA3 as one service network across launcher and website.",
-    "Release readiness now checks normal player copy for internal implementation names before public announcements."
+    "Roleplay Command is feature-locked until RP launches as a proper feature; Action remains the live combat path."
   ],
   "downloads": {
     "windows": {
       "url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.5-beta.exe",
       "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.5-beta.exe",
-      "sha256": "8B82CBA38FC54E0849F5A085349D26AFD9BE7322C8158FAA5B389E6D4F50EB3C"
+      "sha256": "96AA4B9ED76358C2911A82B79557127777AE1879FAB9B9447C46575B3F4D0F20"
     },
     "linux": {
       "url": "https://tcwa3.co.uk/downloads/TCW-Launcher-Linux-0.4.5-beta.zip",
       "installer_url": "",
-      "sha256": "3A2673285C4E113656245432FBDB4736446E199A79F2DEB4647200CF1F2428E2"
+      "sha256": "88C0286E1CE3FC4004C5D5A20B6803E7D6089E809A81159AA6366A76D56DA856"
     }
   }
 }
