@@ -1,26 +1,26 @@
 {
-  "version": "0.4.7-beta",
+  "version": "0.4.8-beta",
   "channel": "beta",
-  "title": "TCW Launcher 0.4.5 Beta",
-  "summary": "Quest and unfinished WIP surfaces are feature-locked until ready for public release.",
+  "title": "TCW Launcher 0.4.8 Beta",
+  "summary": "Player-facing copy polished to official TCWA3 service language.",
   "mandatory": false,
-  "download_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.7-beta.exe",
-  "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.7-beta.exe",
-  "sha256": "746359E9BF5CEC2E831CD8E4BB04F2AFB6834CF7DB60B3E910F1C4A9068D4F43",
-  "published_at": "2026-06-25",
+  "download_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.8-beta.exe",
+  "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.8-beta.exe",
+  "sha256": "122C5AEC4836FB96B02FCD3324E5938B4F96B25E14E2F4BA123274FFA1A84C74",
+  "published_at": "2026-06-26",
   "notes": [
-    "Quests and unfinished WIP surfaces are locked behind future-feature panels until their public release."
+    "Player-facing copy polished to official TCWA3 service language."
   ],
   "downloads": {
     "windows": {
-      "url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.7-beta.exe",
-      "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.7-beta.exe",
-      "sha256": "746359E9BF5CEC2E831CD8E4BB04F2AFB6834CF7DB60B3E910F1C4A9068D4F43"
+      "url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.8-beta.exe",
+      "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.8-beta.exe",
+      "sha256": "122C5AEC4836FB96B02FCD3324E5938B4F96B25E14E2F4BA123274FFA1A84C74"
     },
     "linux": {
-      "url": "https://tcwa3.co.uk/downloads/TCW-Launcher-Linux-0.4.7-beta.zip",
+      "url": "https://tcwa3.co.uk/downloads/TCW-Launcher-Linux-0.4.8-beta.zip",
       "installer_url": "",
-      "sha256": "2F0A7B57518B413B345ADC6E1A776BEACE4974819BC189390A67CC47907CC470"
+      "sha256": "F63E931CAC29C98FEFF741560FD13A23675B40E76A7127B7D990740E11CDCA47"
     }
   }
 }
