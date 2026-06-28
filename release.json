@@ -1,26 +1,28 @@
 {
-  "version": "0.4.11-beta",
+  "version": "0.4.12-beta",
   "channel": "beta",
-  "title": "TCW Launcher 0.4.11 Beta",
-  "summary": "Launcher join hotfix, TeamSpeak detection hardening, clearer combat stat labels, and official TCW server progression lock.",
+  "title": "TCW Launcher 0.4.12 Beta",
+  "summary": "Discord unit roster fallback, bot member-sync repair, and launcher fullscreen layout fix.",
   "mandatory": false,
-  "download_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.11-beta.exe",
-  "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.11-beta.exe",
-  "sha256": "1438CF0E8FC193D16E463BD784CDB71938B161EB5D6C205F09D9B2A6ACA54F94",
+  "download_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.12-beta.exe",
+  "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.12-beta.exe",
+  "sha256": "0DE2DD596FBFC3CDED90AFC23A55E4A4C9E95192CB446B663D2645185A8BAE53",
   "published_at": "2026-06-28",
   "notes": [
-    "Backend rejects progression events unless each signed event maps to an official TCW server catalog id."
+    "Discord-linked comms tags can now repair blank or Unassigned unit roster fields while preserving Root Storm/JT authority.",
+    "Bot member-sync refreshes linked unit tags automatically.",
+    "Launcher fullscreen toggle now relayouts overlays after Windows changes window mode."
   ],
   "downloads": {
     "windows": {
-      "url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.11-beta.exe",
-      "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.11-beta.exe",
-      "sha256": "1438CF0E8FC193D16E463BD784CDB71938B161EB5D6C205F09D9B2A6ACA54F94"
+      "url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.12-beta.exe",
+      "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.12-beta.exe",
+      "sha256": "0DE2DD596FBFC3CDED90AFC23A55E4A4C9E95192CB446B663D2645185A8BAE53"
     },
     "linux": {
-      "url": "https://tcwa3.co.uk/downloads/TCW-Launcher-Linux-0.4.11-beta.zip",
+      "url": "https://tcwa3.co.uk/downloads/TCW-Launcher-Linux-0.4.12-beta.zip",
       "installer_url": "",
-      "sha256": "9FE0EE7DC6538FD1329254897BCA2097F3A6FC36C0B9B7F8D045375048D7B933"
+      "sha256": "9C4DD0D35292F924C316FB584A5618855678139B2D9640D3CD7834111DD49A02"
     }
   }
 }
