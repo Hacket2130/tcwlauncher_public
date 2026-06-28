@@ -1,26 +1,26 @@
 {
-  "version": "0.4.8-beta",
+  "version": "0.4.11-beta",
   "channel": "beta",
-  "title": "TCW Launcher 0.4.8 Beta",
-  "summary": "Player-facing copy polished to official TCWA3 service language.",
+  "title": "TCW Launcher 0.4.11 Beta",
+  "summary": "Launcher join hotfix, TeamSpeak detection hardening, clearer combat stat labels, and official TCW server progression lock.",
   "mandatory": false,
-  "download_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.8-beta.exe",
-  "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.8-beta.exe",
-  "sha256": "122C5AEC4836FB96B02FCD3324E5938B4F96B25E14E2F4BA123274FFA1A84C74",
-  "published_at": "2026-06-26",
+  "download_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.11-beta.exe",
+  "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.11-beta.exe",
+  "sha256": "1438CF0E8FC193D16E463BD784CDB71938B161EB5D6C205F09D9B2A6ACA54F94",
+  "published_at": "2026-06-28",
   "notes": [
-    "Player-facing copy polished to official TCWA3 service language."
+    "Backend rejects progression events unless each signed event maps to an official TCW server catalog id."
   ],
   "downloads": {
     "windows": {
-      "url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.8-beta.exe",
-      "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.8-beta.exe",
-      "sha256": "122C5AEC4836FB96B02FCD3324E5938B4F96B25E14E2F4BA123274FFA1A84C74"
+      "url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.11-beta.exe",
+      "installer_url": "https://tcwa3.co.uk/downloads/TCWA3-Launcher-Setup-0.4.11-beta.exe",
+      "sha256": "1438CF0E8FC193D16E463BD784CDB71938B161EB5D6C205F09D9B2A6ACA54F94"
     },
     "linux": {
-      "url": "https://tcwa3.co.uk/downloads/TCW-Launcher-Linux-0.4.8-beta.zip",
+      "url": "https://tcwa3.co.uk/downloads/TCW-Launcher-Linux-0.4.11-beta.zip",
       "installer_url": "",
-      "sha256": "F63E931CAC29C98FEFF741560FD13A23675B40E76A7127B7D990740E11CDCA47"
+      "sha256": "9FE0EE7DC6538FD1329254897BCA2097F3A6FC36C0B9B7F8D045375048D7B933"
     }
   }
 }
